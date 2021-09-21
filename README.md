@@ -14,7 +14,7 @@ Genetic Algorithm is a type of Reinforcement Learning method which basically wor
 
 NEAT docs : https://neat-python.readthedocs.io/en/latest/
 
-NEAT is a genetic algorithm written in Python. The main difference NEAT has to other genetic algorithms is, the mutations can happen not just weights of connections, It can happen also like; adding new nodes, new connections, and changing the weights of connections as well.
+NEAT is a genetic algorithm written in Python. The main difference NEAT has to other genetic algorithms is, the mutations can happen not just weights of connections in the Neural Network, It can happen also like; adding new nodes, new connections, and changing the weights of connections as well.
 
 ## In-Game-AI
 
