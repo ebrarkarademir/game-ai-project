@@ -1,6 +1,6 @@
 # game-ai-project
 
-This is the first game-ai project trial of me. Game is simple, when you face with obstacle you need to jump or slide. With using genetic algorithm, I tried to teach an AI to beat the game. To do this, I used NEAT algorithm.
+This is my first game-ai project. Game is simple, when you face with obstacle you need to jump or slide. With using genetic algorithm, I tried to teach an AI to beat the game. To do this, I used NEAT algorithm.
 
 ## In-Game
 
@@ -18,14 +18,14 @@ NEAT is a genetic algorithm written in Python. The main difference NEAT has to o
 
 ## In-Game-AI
 
-In game there is 3 levels. In level one, you need to jump over obstacles. In level two, you need to slide above obstacles. And in level three, obstacles created randomly.
+In game there is 3 levels. In level one, you need to jump over obstacles. In level two, you need to slide under obstacles. And in level three, obstacles created randomly.
 
-* In level one, AI easily learns how to jump.
+* In level one, AI easily learns how to jump in a few generations.
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/76682003/134261115-1fa486fb-fe67-4566-a10f-84ced02176df.gif)
 
 
-* But in level two, AI struggles to learn when to press slide.
+* But in level two, AI struggles to learn when to press slide over 100+ generations.
 
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/76682003/134261298-72689c4e-fce7-4c17-a57d-96ee2f319cd9.gif)
 
